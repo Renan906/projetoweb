@@ -1,5 +1,3 @@
-alert("");
-
 // Seleção de elementos
 const menuBtn = document.querySelector("#menu");
 const closeMenuBtn = document.querySelector("#close-menu");
